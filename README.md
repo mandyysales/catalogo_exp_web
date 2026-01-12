@@ -1,4 +1,4 @@
-📚 Sobre o Projeto
+📚 Sobre o Projeto (Finalizado, mas fazendo melhorias) [Os codigos não foram adicionados integralmente]
 
 Este repositório contém o Trabalho de Conclusão de Curso (TCC) de Amanda Sales, desenvolvido como parte da graduação em Sistemas de Informação – Universidade Estadual de Campinas (Unicamp).
 O projeto consiste na criação de uma aplicação web voltada para o gerenciamento, visualização e organização de equipamentos, contemplando dois tipos de usuários:
